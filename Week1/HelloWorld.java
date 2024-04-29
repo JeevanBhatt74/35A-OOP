@@ -1,6 +1,6 @@
 package Week1;
 
-/*1. Write a program that prints Hello World! to the console. Save the program as Hello.java. */
+/*1. Write a program that prints Hello World! to the console. Save the program as Hello.javas. */
 
 public class HelloWorld {
     public static void main(String[] args) {
